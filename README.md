@@ -1,7 +1,7 @@
 This account (Ireland /ᚔᚏᚓᚂᚐᚅᚇ) manages a collection of projects focused on the overlap of Ireland and technology. It is a personal iniative without any specific manifesto other than to surface aspects that I personally find interesting and potentially useful to others.
 
 ### Projects hosted here:
-* [Eircode](https://github.com/ireland/eircode) - notes and reference data related to the Irish postcode system.
+* [Eircodes](https://github.com/ireland/eircodes) - notes and reference data related to the Irish postcode system.
 
 
 ### Projects hosted elsewhere:
