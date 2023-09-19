@@ -8,7 +8,6 @@ This account (Ireland /ᚔᚏᚓᚂᚐᚅᚇ) manages a collection of projects f
 * The [Irish Open Data Portal](https://data.gov.ie) - public pector data in open, free and reusable formats.
 * [Digital Repository of Ireland Projects](https://www.dri.ie/projects) - the national digital repository for Ireland’s humanities, social sciences, and cultural heritage data.
 * [Right to Know](https://www.righttoknow.ie) -  a not-for-profit focused on vindicating the rights of citizens to access information.
-* The [@ireland](https://www.twitter.com/ireland) twitter account - voluntary curators that [rotate weekly](https://www.irishcentral.com/roots/what-is-the-ireland-twitter-feed-223955441-237781181) for a diverse Irish voice on twitter.
 * The [Ogham Translator](https://ogh.am) - an English to Ogham transliterator (with phonetic replacements for the 6 missing ascii characters)
 
 ### Irish People Online:
