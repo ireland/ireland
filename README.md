@@ -17,4 +17,4 @@ This account (Ireland /ᚔᚏᚓᚂᚐᚅᚇ) manages a collection of projects f
 * [@ireland on twitter](https://twitter.com/ireland) - Irish focused account curated by a new person each week.
 * [Ireland on Reddit](https://www.reddit.com/r/ireland) - An all-island subreddit for discussion of Irish news, politics, culture, history and society.
 
-  [broken link test](htts://row42.com/thislinkdoesnotexist)
+[broken link test](https://row42.com/thislinkdoesnotexist)
