@@ -6,6 +6,7 @@ This account (Ireland /ᚔᚏᚓᚂᚐᚅᚇ) manages a collection of projects f
 ### Projects hosted elsewhere:
 * [Irish Projects on Github](https://github.com/topics/ireland) - all projects with the 'Ireland' tag in github.
 * The [Irish Open Data Portal](https://data.gov.ie) - public pector data in open, free and reusable formats.
+* [EPA Ireland Updates (Unofficial)](https://github.com/EPA-Ireland-Updates-Unofficial)
 * [Digital Repository of Ireland Projects](https://www.dri.ie/projects) - the national digital repository for Ireland’s humanities, social sciences, and cultural heritage data.
 * [Right to Know](https://www.righttoknow.ie) -  a not-for-profit focused on vindicating the rights of citizens to access information.
 * The [Ogham Translator](https://ogh.am) - an English to Ogham transliterator (with phonetic replacements for the 6 missing ascii characters)
